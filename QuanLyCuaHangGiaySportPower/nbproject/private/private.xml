@@ -3,12 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/G:/Semester%204/BLOCK%202/DuAn1/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/db/DBContect.java</file>
-            <file>file:/G:/Semester%204/BLOCK%202/DuAn1/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Repository/Repo.java</file>
-            <file>file:/G:/Semester%204/BLOCK%202/DuAn1/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Repository/KhachHangRepository.java</file>
-            <file>file:/G:/Semester%204/BLOCK%202/DuAn1/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Service/KhachHangService.java</file>
-            <file>file:/G:/Semester%204/BLOCK%202/DuAn1/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/View/ViewKhachHang.java</file>
-            <file>file:/G:/Semester%204/BLOCK%202/DuAn1/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Service/iplm/KhachHangServiceImpl.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Service/HoaDonService.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Repository/HoaDonRepo.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/db/DBcontext.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Service/Service.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/db/DBContect.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/ViewModel/HoaDonViewModel.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Service/HoaDonServiceimpl.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Domain/HoaDon.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/View/HoaDonView.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/View/ChucVuView.java</file>
+            <file>file:/C:/Users/dinhq/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/View/QuanLyNhanVien.java</file>
         </group>
     </open-files>
 </project-private>
