@@ -2,6 +2,18 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/db/DBConnection.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Domain/PhieuBaoHanh.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Repository/PBHRepository.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Repository/Repo.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Service/PBHService.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/ViewModel/PhieuBaoHanh.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/View/BaoHanhSP.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Application/c1.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/ViewModel/NhanVien_ViewM.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Domain/ChucVu.java</file>
+            <file>file:/C:/Users/phams/OneDrive/Tài%20liệu/GitHub/PRO1041_IT17316_NHOM3/QuanLyCuaHangGiaySportPower/src/Service/PHBServiceImpl.java</file>
+        </group>
     </open-files>
 </project-private>
