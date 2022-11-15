@@ -19,36 +19,33 @@ import java.util.logging.Logger;
  */
 public class DBContect {
     public static final String HOSTNAME = "localhost";
+    public static final String PORT = "1433";
+    public static final String DBNAME = "QUANLYCUAHANGGIAY";
+    public static final String USERNAME = "sa";
+    public static final String PASSWORD = "Duy24052003";
 
-    public static final String USER = "sa";
+    /**
+     * Get connection to MSSQL Server
+     *
+     * @return Connection
+     */
+    public static Connection getConnection() {
 
-    public static final String PASSWORD = "honkai123";
+        // Create a variable for the connection string.
+        String connectionUrl = "jdbc:sqlserver://" + HOSTNAME + ":" + PORT + ";"
+                + "databaseName=" + DBNAME + ";encrypt=true;trustServerCertificate=true;";
 
-    public static final String DB = "QUANLYCUAHANGGIAY";
-
-    public static final String CONNECTION_STRING = "jdbc:sqlserver://" + HOSTNAME + ":1433;databaseName=" + DB;
-    private static Connection connection;
-    public static Connection getDatabaseConnection() {
         try {
-            if (connection == null) {
-                connection = DriverManager.getConnection(CONNECTION_STRING, USER, PASSWORD);
-                DatabaseMetaData metaData = connection.getMetaData();
-            }
-        } catch (SQLException ex) {
-            System.out.println("Connection to database failed");
-            return null;
+            Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
+            return DriverManager.getConnection(connectionUrl, USERNAME, PASSWORD);
+        } // Handle any errors that may have occurred.
+        catch (ClassNotFoundException | SQLException e) {
+            e.printStackTrace(System.out);
         }
-        return connection;
+        return null;
     }
-     public static ResultSet runSelectQuery(Statement st, String sql) {
-        ResultSet rs = null;
-        try {
-            rs = st.executeQuery(sql);
-        } catch (SQLException e) {
-        }
-        return rs;
-    }
-     public static void main(String[] args) {
-        
+
+    public static void main(String[] args) {
+        System.out.println(getConnection());
     }
 }
