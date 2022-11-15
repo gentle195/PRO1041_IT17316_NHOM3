@@ -21,7 +21,7 @@ import java.util.logging.Logger;
  */
 public class Repo {
 
-    Connection con = DBContect.getDatabaseConnection();
+    Connection con = DBContect.getConnection();
 
     public List<ChucVu_ViewM> bangchucvu() {
         List<ChucVu_ViewM> list = new ArrayList<>();
