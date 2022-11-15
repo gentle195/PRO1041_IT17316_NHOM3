@@ -4,8 +4,9 @@
  */
 package Service;
 
+import Domain.PhieuBaoHanh;
 import java.util.List;
-import viewmodel.PhieuBaoHanh;
+import Domain.PhieuBaoHanh;
 
 /**
  *

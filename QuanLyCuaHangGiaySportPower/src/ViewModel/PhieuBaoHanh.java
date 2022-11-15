@@ -18,6 +18,14 @@ public class PhieuBaoHanh {
     public PhieuBaoHanh() {
     }
 
+    /**
+     *
+     * @param id
+     * @param maPhieu
+     * @param tenPhieu
+     * @param thoiGianBaoHanh
+     * @param mota
+     */
     public PhieuBaoHanh(String id, String maPhieu, String tenPhieu, int thoiGianBaoHanh, String mota) {
         this.id = id;
         this.maPhieu = maPhieu;
